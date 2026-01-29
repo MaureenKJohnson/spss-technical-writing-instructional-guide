@@ -1,6 +1,6 @@
 # spss-technical-writing-instructional-guide
 A graduate-level SPSS instructional guide demonstrating my technical writing, statistical documentation, and step-by-step analytical communication skills.
-
+***
 ### Technical Writing Artifact · Authored by Dr. Maureen K. Johnson
 
 This repository contains a technical writing sample demonstrating my ability to create clear, structured, and instructionally sound documentation for analytical workflows. The included PDF is a graduate-level instructional guide I developed for students learning to conduct statistical analysis using SPSS.
