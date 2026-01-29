@@ -40,4 +40,4 @@ This document serves as a sample of my technical writing capabilities for roles 
 ## 👩‍🏫 Author
 **Dr. Maureen K. Johnson**  
 Technical Writer · Data Analyst · Educator  
-Orlando, Florida  
+Casselberry, Florida  
